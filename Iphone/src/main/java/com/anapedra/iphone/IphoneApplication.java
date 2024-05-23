@@ -149,22 +149,6 @@ public class IphoneApplication {
 
 
     }
-    /*
-     modified:
-        new file:
-        new file:
-        new file:
-        new file:
-
-        new file:   Iphone/src/main/java/com/anapedra/iphone/model/PhoneContact.java
-        new file:   Iphone/src/main/java/com/anapedra/iphone/model/enums/PhoneType.java
-        new file:
-        new file:
-
-        modified:   README.md
-
-
-     */
 
 
 
