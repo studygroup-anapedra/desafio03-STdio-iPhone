@@ -16,7 +16,11 @@ IDE (Visual Studio Code, Eclipse, etc);
 <h2>Comportamentos esperados:</h2>
 <p>
 1-Repodutor Musicial: tocar, pausar, selecionarMusica
+</p>
+<p>
 2-Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
+</p>
+<p>
 3-Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 </p>
 
@@ -54,9 +58,6 @@ IDE (Visual Studio Code, Eclipse, etc);
 2-Aparelho Telefônico
 3-Navegador na Internet
 </p>
-
-<img src=""    git push --set-upstream origin main>
-
 
 <h2>Fontes de pesquisa e cursos relacionados:</h2>
 
