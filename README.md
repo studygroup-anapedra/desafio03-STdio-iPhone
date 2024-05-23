@@ -1,4 +1,4 @@
-# Phone
+# iPhone
 <h2>SOBRE O DESAFIO</h2>
 <p>
 Elaborar em uma ferramenta de UML de  preferência, um diagrama de classes e interfaces com a proposta de representar os seguintes papéis do iPhone 2007: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java. Esse desafio tem o intuído de atender o 3° desafio do bootcamp Santander 2024 - Backend com Java
