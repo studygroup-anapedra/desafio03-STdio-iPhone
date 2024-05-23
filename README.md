@@ -24,7 +24,6 @@ IDE (Visual Studio Code, Eclipse, etc);
 3-Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 </p>
 
-
 <p >
 <a href="https://docs.google.com/document/d/1d4wVb-AoMyph8hkzH1UqYbTFeFV5tb_X88VQS4Fz-D4/edit
 ">🔗 Diagrama de classe Iphone7</a>
@@ -81,7 +80,7 @@ IDE (Visual Studio Code, Eclipse, etc);
  </p>
 
 
-<p     git push --set-upstream origin main>
+<p>
 <a href="https://aws.amazon.com/pt/training/restart/">🔗 AWS re/Start-Escola das Nuvens - em andamento </a>
  </p>
 
